@@ -25,6 +25,9 @@ private int seatcapacity;
  public int getcapacity() {
 	 return seatcapacity;
  }
+public int getOperation(){
+	return opeartion;
+}
  public void setcapacity(int cap) {
 	 seatcapacity = cap;
  }
